@@ -12,33 +12,11 @@ pip install -r requirements.txt
 
 ## 接口信息
 
----
-title: 派蒙风控系统
-language_tabs:
-  - shell: Shell
-  - http: HTTP
-  - javascript: JavaScript
-  - ruby: Ruby
-  - python: Python
-  - php: PHP
-  - java: Java
-  - go: Go
-toc_footers: []
-includes: []
-search: true
-code_clipboard: true
-highlight_theme: darkula
-headingLevel: 2
-generator: "@tarslib/widdershins v4.0.22"
-
----
-
 # 派蒙风控系统
 
 Base URLs:
 
-* <a href="http://dev-cn.your-api-server.com">开发环境: http://dev-cn.your-api-server.com</a>
-
+* <a href="http://dev-cn.your-api-server.com">开发环境: 127.0.0.1:5000</a>
 # Authentication
 
 # Default
