@@ -190,14 +190,6 @@ POST /info_submit
 |---|---|---|---|
 |200|[OK](https://tools.ietf.org/html/rfc7231#section-6.3.1)|成功|Inline|
 
-### 返回数据结构
-
-状态码 **200**
-
-|名称|类型|必选|约束|中文名|说明|
-|---|---|---|---|---|---|
-|» code|integer|true|none||none|
-|» message|string|true|none||none|
 
 
 
